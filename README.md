@@ -7,7 +7,7 @@
 
 **3.	Check the PDF File Size:**  
 Download the PDF from Overleaf and check its size. As a rule of thumb, one graphics-heavy page should be under 1 MB.  
-For example for a PDF with 7 figures:  
+For example for a PDF paper with 7 figures:  
 	•	5 half-page figures → ~2.5 MB  
 	•	2 full-page figures → ~2 MB  
 	•	Text content → ~0.5 MB  
