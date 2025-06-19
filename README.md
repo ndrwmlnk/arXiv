@@ -18,13 +18,12 @@ inspect the figures and identify which ones are too large. Back up original file
 	•	Resize images  
 	•	Convert to more efficient formats (e.g., JPG, PNG, PDF)  
 	•	Reduce JPG quality (Tip: For a given file size, it’s generally better to use a higher resolution with lower quality than a lower resolution with higher quality)  
-	•	Apply multi-step compression to PNGs [How to Compress PNG Images Without Losing Quality](https://shortpixel.com/blog/compress-png-images-without-losing-quality)  
+	•	Apply multi-step compression to PNGs. [How to Compress PNG Images Without Losing Quality](https://shortpixel.com/blog/compress-png-images-without-losing-quality)  
 
 **5. Inspect the final quality of figures in PDF:**  
    •	text should be sharp and readable  
    •	all tiny details remain visible  
 
 **6. Upload the lightweight, cleaned project to arXiv:**  
-•	Submit the version processed with arxiv-latex-cleaner and images of approprite size to arXiv.  
 •	Refer to the [Announcement Schedule](https://info.arxiv.org/help/availability.html) to see when your submission will appear publicly and receive its final arXiv URL.  
 •	Share the arXiv URL and the paper password (emailed to the submitting author) with co-authors.  
