@@ -3,7 +3,7 @@
    In Overleaf, go to Submit → Download Project ZIP with submission files (e.g. .bbl)  
 
 **2.	Clean Up the LaTeX Files:**  
-   Use the tool [https://github.com/google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) to automatically remove unused files and commented-out sections from your .tex files. Otherwise, comments left in .tex files remain visible on arXiv under Access Paper: TeX Source.  
+   Use the tool [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) to automatically remove unused files and commented-out sections from your .tex files. Otherwise, comments left in .tex files remain visible on arXiv under Access Paper: TeX Source.  
 
 **3.	Check the PDF File Size:**  
 Download the PDF from Overleaf and check its size. As a rule of thumb, one graphics-heavy page should be under 1 MB.  
