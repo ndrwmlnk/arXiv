@@ -16,7 +16,7 @@ For example for a PDF paper with 7 figures:
 **4. If your PDF exceeds this:**  
 inspect the figures and identify which ones are too large. Back up original files and try the following to reduce size:  
 	•	Convert to more efficient formats (e.g., JPG, PNG, PDF)  
-	•	For figures that consist mainly of text, bounding boxes, and arrows, save them as PDFs directly from the editor where the content is editable (e.g., https://miro.com). This will result in a much smaller file—comparable in size to a text document with the same word count.  
+	•	For figures that consist mainly of text, bounding boxes, and arrows, save them as PDFs directly from the editor where the content is editable (e.g., PowerPoint --> Save as PDF, https://miro.com --> Save as PDF). This will result in a much smaller file—comparable in size to a text document with the same word count.  
 	•	Reduce JPG quality (Tip: For a given file size, it’s generally better to use a higher resolution with lower quality than a lower resolution with higher quality)  
 	•	Apply multi-step compression to PNGs. [How to Compress PNG Images Without Losing Quality](https://shortpixel.com/blog/compress-png-images-without-losing-quality)  
  	•	Resize images  
